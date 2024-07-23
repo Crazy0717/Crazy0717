@@ -1,12 +1,9 @@
- <h3 align="center">👋 Hi, I’m Zohit</h3> 
+ <h3 align="center"> Hi, I’m Zohit</h3> 
  <p>About me:</p>
  <p>
-   I am Muhammadzahid, 15 years old, from Fergana, Uzbekistan.
+  I am a Frontend React Developer. I like web development and pay attention to details. I am 16 years old. I live in Fergana, Uzbekistan. I know how to build web applications with React.js and his ecosystem. I want to learn more and work on new projects in the tech industry.
  </p>
- <h4>My </h4>
- <p>
-   I’m currently learning 
- </p>
+ 
  <!--👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
