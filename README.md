@@ -6,12 +6,15 @@
  <p>My skills:</p>
  <p>Frontend Technologies:</p>
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts)](https://skillicons.dev)
  <p>UI Libraries:</p>
-
+ 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tailwind,materialui)
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
+     
  <p>Tools & Platforms:</p>
 
-  [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,redux)
  
  <!--👀 I’m interested in ...
 - 🌱 I’m currently learning ...
