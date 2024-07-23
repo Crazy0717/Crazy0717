@@ -3,6 +3,15 @@
  <p>
   I am a Frontend React Developer. I like web development and pay attention to details. I am 16 years old. I live in Fergana, Uzbekistan. I know how to build web applications with React.js and his ecosystem. I want to learn more and work on new projects in the tech industry.
  </p>
+ <p>My skills:</p>
+ <p>Frontend Technologies:</p>
+ 
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts)](https://skillicons.dev)
+ <p>UI Libraries:</p>
+
+ <p>Tools & Platforms:</p>
+
+  [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
  
  <!--👀 I’m interested in ...
 - 🌱 I’m currently learning ...
