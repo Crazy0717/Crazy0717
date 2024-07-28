@@ -15,6 +15,10 @@
  <p>Tools & Platforms:</p>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,redux)
+<div>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crazy0717&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Crazy0717&theme=2077" height="180em" />
+</div>
  
  <!--👀 I’m interested in ...
 - 🌱 I’m currently learning ...
