@@ -9,7 +9,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,ts)](https://skillicons.dev)
  <p>UI Libraries:</p>
  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tailwind,materialui)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tailwind,shadcn,materialui,gsap)
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
      
  <p>Tools & Platforms:</p>
