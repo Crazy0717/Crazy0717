@@ -19,6 +19,10 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crazy0717&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Crazy0717&theme=2077" height="180em" />
 </div>
+
+Contact:
+<p>Email: tursunboyevmuhammadzohid07@gmail.com</p>
+<p>Telegram: <a href="https://t.me/BLACKpowerpm">BLACKpowerpm</a></p>
  
  <!--👀 I’m interested in ...
 - 🌱 I’m currently learning ...
