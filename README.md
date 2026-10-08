@@ -20,10 +20,14 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Crazy0717&theme=2077" height="180em" />
 </div>
 
+<!---
+updated 08.10.2026:
+change only commented:
 Contact:
 <p>Email: tursunboyevmuhammadzohid07@gmail.com</p>
 <p>Telegram: <a href="https://t.me/BLACKpowerpm">BLACKpowerpm</a></p>
- 
+--->
+
  <!--👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
